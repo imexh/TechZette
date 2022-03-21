@@ -6,3 +6,4 @@ Technologies used: Python, Flask, Firebase, HTML, CSS
 
 URL: https://techzettelk.herokuapp.com/
 
+![Picture 1](https://user-images.githubusercontent.com/76934064/159222794-1570d98c-7964-4a39-bfed-ab53a921f3ac.png)
